@@ -20,18 +20,24 @@ body
 #contenedor
 {
     width: 100%;
+    margin-left: 25%;
     opacity: 40%;
 }
 
 footer
 {
     background-color: rgb(14, 14, 14);
-    padding: 2%;
+    padding: 1%;
 }
-.redes
+#redes
 {
+    width: 10%;
     margin-left: 10%;
-    font-family: 'Poiret One', cursive;
+    margin-top: 2%;
+}
+#imagen_fb
+{
+    margin-right: 5%;
 }
 .copyright
 {
